@@ -1,4 +1,6 @@
--The file helloWorld.cpp simply prints the phrase "Hello World" to the user.
+Applied Programming Languages Assignment 1:
+
+-The file "helloWorld.cpp" simply prints the phrase "Hello World" to the user.
 
 -To run the file in Cygwin, use the following command: g++ -O2 -o helloWorld helloWorld.cpp
 
