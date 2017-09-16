@@ -5,18 +5,18 @@
 
 class Car {
 	public:
-		String year;	// Year of the car.
-		String color;	// Color of the car.
+		string year;	// Year of the car.
+		string color;	// Color of the car.
 		
-		void setYear(String y);
-		void setColor(String col);
+		void setYear(string y);
+		void setColor(string col);
 };
 
-void Car::setYear(String y) {		//Sets year of car.
+void Car::setYear(string y) {		//Sets year of car.
 	year = y;
 }
 
-void Car::setColor(String col) {	//Sets color of car.
+void Car::setColor(string col) {	//Sets color of car.
 	color = col;
 }
 
