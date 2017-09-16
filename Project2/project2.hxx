@@ -1,5 +1,5 @@
-#ifndef _PROJECT2_
-#define _PROJECT2_
+#ifndef PROJECT2_H
+#define PROJECT2_H
 
 //Contains a class of a car
 
