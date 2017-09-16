@@ -11,7 +11,4 @@ int main(){
 	
 	carX.setColor(c);
 	carX.setYear(y);
-	
-	cout << "The model year is:" << carX.setYear(y) << endl;
-	cout << "The color of the car is:" << carX.setColor(c) << endl;
 }
