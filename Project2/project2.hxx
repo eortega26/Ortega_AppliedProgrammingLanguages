@@ -9,11 +9,11 @@ class Car {
 		std::string year;
 		
 	
-		string setYear(std::string y) {
+		int setYear(std::string y) {
 			y = year;
 			std::cout << "The year of the car is:" << y << std::endl;
 		}
-		string setColor(std::string c) {
+		int setColor(std::string c) {
 			c = color;
 		}
 };
