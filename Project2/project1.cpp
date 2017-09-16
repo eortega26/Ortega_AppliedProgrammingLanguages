@@ -9,7 +9,7 @@ int main(){
 	//carX.setColor();
 	//carX.setYear("2007");
 	string y = "2007";
-	string c = "red";
+	int c = "red";
 	
 	Car::setColor(c);
 	//cout << "The model year is:" << carX.setYear << endl;
