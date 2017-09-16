@@ -6,7 +6,7 @@
 class Car {
 	public:
 		void setYear(std::string year);
-		void setColor();
+		void setColor(int col);
 };
 
 #endif
