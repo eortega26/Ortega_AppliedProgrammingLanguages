@@ -7,10 +7,8 @@ int main(){
 		
 	Car carX;
 	
-	string color = "red";
-	string year = "2007";
-	carX.setColor(color);
-	carX.setYear(year);
+	carX.setColor("red");
+	carX.setYear("2007");
 	
 	//cout << "The model year is:" << carX.setYear << endl;
 	//cout << "The color of the car is:" << carX.setColor << endl;
