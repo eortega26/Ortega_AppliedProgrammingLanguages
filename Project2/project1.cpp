@@ -11,7 +11,7 @@ int main(){
 	string y = "2007";
 	string c = "red";
 	
-	Car::setColor(String color) {
+	Car::setColor(string color) {
 		color = c;
 	}
 	//cout << "The model year is:" << carX.setYear << endl;
