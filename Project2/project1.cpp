@@ -7,11 +7,9 @@ int main(){
 		
 	Car carX;
 
-	//carX.setColor("red");
-	//carX.setYear("2007");
+	carX.setColor("red");
+	carX.setYear("2007");
 	
 	//cout << "The model year is:" << carX.setYear << endl;
 	//cout << "The color of the car is:" << carX.setColor << endl;
-	cout << carX.setColor("red") << endl;
-	cout << carX.setYear("2007") << endl;
 }
