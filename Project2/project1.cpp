@@ -8,7 +8,11 @@ int main(){
 	Car carX;
 	string y = "2007";
 	string c = "red";
+	int color;
+	int year;
 	
-	carX.setColor(c);
-	carX.setYear(y);
+	color = carX.setColor(c);
+	year = carX.setYear(y);
+	
+	cout << color << endl;
 }
