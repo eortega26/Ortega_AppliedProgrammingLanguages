@@ -5,8 +5,16 @@
 
 class Car {
 	public:
-		void setYear(std::string year);
-		void setColor(std::string col);
+		std::string color;
+		std::string year;
+		
+	
+		void setYear(std::string y) {
+			y = year;
+		}
+		void setColor(std::string c) {
+			c = color;
+		}
 };
 
 #endif
