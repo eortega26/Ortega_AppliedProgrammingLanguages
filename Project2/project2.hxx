@@ -8,8 +8,8 @@ class Car {
 		std::string year;	// Year of the car.
 		std::string color;	// Color of the car.
 		
-		void setYear(char* y);
-		void setColor(char* col);
+		void setYear(std::string y);
+		void setColor(std::string col);
 };
 
 #endif
