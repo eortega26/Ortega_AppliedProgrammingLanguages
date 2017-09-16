@@ -14,6 +14,7 @@ class Car {
 			return y;
 		}
 		int setColor(std::string c) {
+			c = color
 			return c;
 		}
 };
