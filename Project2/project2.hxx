@@ -13,7 +13,7 @@ class Car {
 			y = year;
 		}
 		int setColor(std::string c) {
-			c = color
+			c = color;
 		}
 };
 
