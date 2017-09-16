@@ -12,5 +12,6 @@ int main(){
 	
 	//cout << "The model year is:" << carX.setYear << endl;
 	//cout << "The color of the car is:" << carX.setColor << endl;
-	cout << carX.getName() << endl;
+	cout << carX.setColor() << endl;
+	cout << carX.setYear() << endl;
 }
