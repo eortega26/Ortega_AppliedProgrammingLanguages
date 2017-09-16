@@ -12,12 +12,4 @@ class Car {
 		void setColor(std::string col);
 };
 
-void Car::setYear(std::string y) {		//Sets year of car.
-	year = y;
-}
-
-void Car::setColor(std::string col) {	//Sets color of car.
-	color = col;
-}
-
 #endif
