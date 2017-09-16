@@ -6,11 +6,10 @@ using namespace std;
 int main(){
 		
 	Car carX;
-	string year; 
-	string color; 
-	year = carX.setColor("red");
-	color = carX.setYear("2007");
+
+	carX.setColor("red");
+	carX.setYear("2007");
 	
-	cout << "The model year is:" << year << endl;
-	cout << "The color of the car is:" << color << endl;
+	cout << "The model year is:" << carX.setYear << endl;
+	cout << "The color of the car is:" << carx.setColor << endl;
 }
