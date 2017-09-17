@@ -1,6 +1,6 @@
 Project 2 
 
--This program prints the year and color of a car to the user by calling member functions in a class.
+-This program prints the year and color of a car by calling member functions in a class.
 
 -To compile the program it is important to have the header file: "project2.hxx" and cpp file: "project1.cpp" in the same directory.
 
