@@ -5,3 +5,6 @@ The following program reads a text file and counts the amount of unique words in
 
 - To compile the java program use the command: javac ReadFile.java
 - To execute the program use the command: java ReadFile
+
+- To compile the scala program use the command: scalac ReadAssignment.scala
+- To execute the program use the command: scala ReadAssignment
