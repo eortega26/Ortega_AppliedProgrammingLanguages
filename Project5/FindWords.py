@@ -1,4 +1,4 @@
-# This program receives a list of words from a text file. And searches for words in a seperate text. 
+# This program receives a list of words from a text file. And searches for words in a seperate text file. 
 
 wordList = []
 notFoundList = []
